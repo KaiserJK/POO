@@ -8,11 +8,12 @@ package Atividades.Cod_Fonte.Atv01;
  * Data da criação: 12/05/2023
  */
 
+ 
+ //Importando as bibliotecas usadas no codigo
  import javax.swing.JOptionPane;
  import java.util.Arrays;
  import java.util.Collections;
- //Importando as bibliotecas usadas no codigo
-
+ 
  public class Atv07 {
      public static void main(String[] args){
          String Notas[] = new String[5];
